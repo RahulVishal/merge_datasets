@@ -134,6 +134,3 @@ merge_datasets/
 
 ---
 
-## License
-
-This project is released under the [MIT License](LICENSE). Made with ❤️ by Rahul.
